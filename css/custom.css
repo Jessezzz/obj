@@ -1,0 +1,6 @@
+/** Your theme modifications here **/
+.form-group span{
+  color:red;
+}
+
+#livesearch {width:420px;z-index:9999;clear:both;padding-left:10px;color:#4FBFA8;background-color:#fff;position:absolute;margin:0;border-width:1px;border-style:solid;border-color: #999;}
